@@ -82,7 +82,7 @@ The compiled files will be at different locations based on the project language:
 - `{script_name}.o` for C project
 
 #### Debugger
-
+ 
 CKB Studio has integrated the [CKB debugger](https://github.com/xxuejie/ckb-standalone-debugger). Click the *Debug* button (with the bug icon) in the project toolbar to debug the current CKB project.
 
 <p align="center">
